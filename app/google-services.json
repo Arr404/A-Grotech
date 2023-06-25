@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "992976203878",
+    "firebase_url": "https://fire-forest-707a8-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fire-forest-707a8",
+    "storage_bucket": "fire-forest-707a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992976203878:android:9b693af446d1e9a2f3bda7",
+        "android_client_info": {
+          "package_name": "com.agilfuad.fireforest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992976203878-que7fjjrqll7a5ac5dssm0r3safb563d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVh_TOvj4ewWeSsmCcHR95vekDynvS-LY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992976203878-que7fjjrqll7a5ac5dssm0r3safb563d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
