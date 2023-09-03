@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "142197558805",
+    "project_id": "a-grotech",
+    "storage_bucket": "a-grotech.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142197558805:android:244d075dc884f66284081c",
+        "android_client_info": {
+          "package_name": "my.id.a_grotech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142197558805-p3os6oci61dve88le85q6c9j7llk4mhv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC-s-XkfD5e8X-6Pm6RxwYGa-CYNuND5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142197558805-p3os6oci61dve88le85q6c9j7llk4mhv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

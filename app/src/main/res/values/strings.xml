@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">A-Grotech</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_qnas">Qnas</string>
+    <string name="title_activity_hoak">HoakActivity</string>
+    <string name="title_chart">Chart</string>
+    <string name="title_Qna">QnA</string>
+    <string name="title_profile">profile</string>
+
+    <string name="retry">Coba lagi</string>
+
+    <string name="sign_in">Masuk</string>
+    <string name="sign_up">Daftar</string>
+    <string name="text_less_6">password less than 6</string>
+    <string name="unknown_error">Unknown Error</string>
+    <string name="button_sign_up">Daftar</string>
+
+    <string name="prompt_name">Nama anda</string>
+    <string name="prompt_gmail">Gmail</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_repassword">Masukkan ulang password</string>
+    <string name="add_story">add_story</string>
+    <string name="menu_logout">LOGOUT</string>
+    <string name="menu_maps">MAPS</string>
+
+    <string name="camera_x">CameraX</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="upload">Unggah</string>
+    <string name="prompt_description">Description...</string>
+    <string name="prompt_punch">Your story everyday</string>
+    <string name="coba_lagi">Coba Lagi</string>
+</resources>
